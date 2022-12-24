@@ -1,4 +1,4 @@
-### Hi there 👋 https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO
+### Hi there 👋 https://media4.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e471ire35fn7a3u1760ldqyt08lu1iedhd8b0rgdd89&rid=giphy.gif&ct=g
 
 <!--
 **stringVictorinox/stringVictorinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
