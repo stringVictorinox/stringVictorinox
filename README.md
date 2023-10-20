@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
+
 ### 👩‍💻 About Me:
 
 Hello! I'm Victor, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela!
@@ -8,9 +10,7 @@ Hello! I'm Victor, a Full Stack Developer <img src="https://media.giphy.com/medi
 
 - 🔍 Take a look at my [**Portfolio**](https://portfolio-valentina-sanchez.vercel.app/)!
 
-- 📫 How to reach me: **victorpestana13@gmail.com** or <a href="https://www.linkedin.com/in/valentina-belen-sanchez/" >
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+- 📫 How to reach me: **victorpestana13@gmail.com**
 
 <br>
 
