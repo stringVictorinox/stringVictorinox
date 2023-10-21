@@ -1,16 +1,18 @@
 <img alt="Header" src="./image.png" />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="320px"/>
 
 ### 👩‍💻 About Me:
 
 Hello! I'm Victor, a Full Stack Developer from Venezuela!
 
-- 🌱 I’m constantly updating my knowledge in frontend for building <br>
+- 🌱 I’m constantly updating my knowledge in frontend for building
      web applications.
 
 - 🔍 Take a look at my [**Portfolio**](https://portfolio-valentina-sanchez.vercel.app/)!
 
 - 💌 How to reach me: **victorpestana13@gmail.com**
+
+---
 
 ### 🛠️ Languages and Tools:
 
