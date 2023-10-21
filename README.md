@@ -1,4 +1,4 @@
-<img alt="Header" src="./image.png" width="2500px" />
+<img alt="Header" src="./image.png" width="2000px" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
 
 ### 👩‍💻 About Me:
