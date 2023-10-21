@@ -1,10 +1,10 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/726179801170624512/1697900879/1500x500)
 
-img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
 
 ### 👩‍💻 About Me:
 
-Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina!
+Hello! I'm Victor, a Full Stack Developer from Venezuela!
 
 - 🌱 I’m constantly updating my knowledge in frontend and backend for building web applications.
 
@@ -19,8 +19,6 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 <br>
 
 ---
-
-
 
 ### 🛠️ Languages and Tools:
 
@@ -44,22 +42,3 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
-
-
----
-
-### ✨ Project Highlights:
-
-<a href="https://github.com/ValentinaBS/e-commerce-mindhub"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=e-commerce-mindhub&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Final project of the Full Stack Java bootcamp from Mindhub"></a>
-<a href="https://github.com/ValentinaBS/EntregaFinal-KibouSushi-Sanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=EntregaFinal-KibouSushi-Sanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Sushi e-commerce"></a>
-<a href="https://github.com/ValentinaBS/AmazingEventsVueValentinaSanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=AmazingEventsVueValentinaSanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Events page in Vue"></a>
-<a href="https://github.com/ValentinaBS/product-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=product-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="product preview card component"></a>
-<a href="https://github.com/ValentinaBS/interactive-rating-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=interactive-rating-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="interactive rating component"></a>
-<a href="https://github.com/ValentinaBS/MindhubBankValentinaSanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=MindhubBankValentinaSanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Homebanking project"></a>
-
----
-
-### 🔥 My Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ValentinaBS&show_icons=true&theme=tokyonight&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaBS&layout=compact&theme=tokyonight" alt="MelvinAguilar" height="165">
-</p>
