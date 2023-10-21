@@ -1,4 +1,4 @@
-![Header](https://pbs.twimg.com/profile_banners/726179801170624512/1697900879/600x200)
+![github-profile-banner](https://pbs.twimg.com/profile_banners/726179801170624512/1697900879)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
 
