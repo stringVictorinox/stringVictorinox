@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://pbs.twimg.com/profile_banners/726179801170624512/1697900879/1500x500)
 <h1 align="center">Hi 👋, I'm Victor Pestana</h1>
 <h3 align="center">Full Stack Developer</h3>
 
