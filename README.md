@@ -12,11 +12,6 @@ Hello! I'm Victor, a Full Stack Developer from Venezuela!
 
 - 💌 How to reach me: **victorpestana13@gmail.com**
 
-
-<br>
-
----
-
 ### 🛠️ Languages and Tools:
 
 <div>
