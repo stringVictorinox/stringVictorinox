@@ -1,5 +1,4 @@
-![Header](./image.png)
-
+<img alt="Header" src="./image.png" width="2500px" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
 
 ### 👩‍💻 About Me:
@@ -15,6 +14,7 @@ Hello! I'm Victor, a Full Stack Developer from Venezuela!
 - 📫 How to reach me: **vbsanchez16@gmail.com** or <a href="https://www.linkedin.com/in/valentina-belen-sanchez/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+
 
 <br>
 
