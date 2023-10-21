@@ -1,4 +1,19 @@
 <img alt="Header" src="./image.png" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">  </p>
+
+- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
+
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **victorpestana13@gmail.com**
+  
+</p>
 
 ### 🛠️ Languages and Tools:
 
