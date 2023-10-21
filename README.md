@@ -8,8 +8,6 @@ Hello! I'm Victor, a Full Stack Developer from Venezuela!
 - 🌱 I’m constantly updating my knowledge in frontend for building <br>
      web applications.
 
-- ⚡ In my free time, I brainstorm new project ideas and read tech articles.
-
 - 🔍 Take a look at my [**Portfolio**](https://portfolio-valentina-sanchez.vercel.app/)!
 
 - 💌 How to reach me: **victorpestana13@gmail.com**
