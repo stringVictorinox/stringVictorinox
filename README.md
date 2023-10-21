@@ -1,18 +1,18 @@
 <img alt="Header" src="./image2.png" width="1000" />
 
-<p align="left">  </p>
+### 🧠 **About me**
 
-- 🎇 I’m currently learning **Java**
+- 💻 I’m currently learning **Java** and **Shopify**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- ⚡ In my free time, I brainstorm new project ideas and read tech articles
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 🔍 Take a look at my [**Portfolio**](https://portafolio-victor-nine.vercel.app)!
 
 - 📫 How to reach me **victorpestana13@gmail.com**
-  
-</p>
 
-### 🛠️ Languages and Tools:
+---
+
+### 🛠️ **Languages and Tools**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,3 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stringvictorinox&show_icons=true&locale=en&layout=compact" alt="stringvictorinox" /></p>
