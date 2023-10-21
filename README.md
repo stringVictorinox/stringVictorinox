@@ -5,7 +5,8 @@
 
 Hello! I'm Victor, a Full Stack Developer from Venezuela!
 
-- 🌱 I’m constantly updating my knowledge in frontend for building web applications.
+- 🌱 I’m constantly updating my knowledge in frontend for building
+     web applications.
 
 - ⚡ In my free time, I brainstorm new project ideas and read tech articles.
 
