@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/726179801170624512/1697900879/1500x500)
+![Header](./github-header-image (2).png)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="360px"/>
 
