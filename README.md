@@ -1,10 +1,8 @@
-<img alt="Header" src="./image2.png" />
+<img alt="Header" src="./image2.png" width="1000" />
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
-
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🎇 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
