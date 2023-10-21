@@ -2,11 +2,9 @@
 
 ### 🧠 **About me**
 
-- 💻 I'm Víctor Pestana, Full Stack Developer and Computer Science student.
+- 💻 I'm Víctor Pestana, Full Stack Developer and Computer Science student. Currently learning **Java** and **Shopify**
 
 - ⚡ In my free time, I brainstorm new project ideas and read tech articles
-
-- 🕵️ I’m currently learning **Java** and **Shopify**
 
 - 🔍 Take a look at my [**Portfolio**](https://portafolio-victor-nine.vercel.app)!
 
