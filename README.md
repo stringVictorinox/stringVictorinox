@@ -1,4 +1,4 @@
-<img alt="Header" src="./image.png" />
+<img alt="Header" src="./image.png" height="180" />
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">  </p>
